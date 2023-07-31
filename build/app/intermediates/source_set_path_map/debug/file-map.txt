@@ -1,0 +1,14 @@
+com.example.ticket_booking.app-jetified-window-1.0.0-beta04-0 /home/singsys/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.ticket_booking.app-jetified-annotation-experimental-1.1.0-1 /home/singsys/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.ticket_booking.app-core-1.6.0-2 /home/singsys/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.ticket_booking.app-jetified-window-java-1.0.0-beta04-3 /home/singsys/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.ticket_booking.app-debug-4 /home/singsys/Desktop/flutterLearning/TicketBookingApp/android/app/src/debug/res
+com.example.ticket_booking.app-main-5 /home/singsys/Desktop/flutterLearning/TicketBookingApp/android/app/src/main/res
+com.example.ticket_booking.app-pngs-6 /home/singsys/Desktop/flutterLearning/TicketBookingApp/build/app/generated/res/pngs/debug
+com.example.ticket_booking.app-resValues-7 /home/singsys/Desktop/flutterLearning/TicketBookingApp/build/app/generated/res/resValues/debug
+com.example.ticket_booking.app-rs-8 /home/singsys/Desktop/flutterLearning/TicketBookingApp/build/app/generated/res/rs/debug
+com.example.ticket_booking.app-mergeDebugResources-9 /home/singsys/Desktop/flutterLearning/TicketBookingApp/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.ticket_booking.app-mergeDebugResources-10 /home/singsys/Desktop/flutterLearning/TicketBookingApp/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.ticket_booking.app-merged_res-11 /home/singsys/Desktop/flutterLearning/TicketBookingApp/build/app/intermediates/merged_res/debug
+com.example.ticket_booking.app-packaged_res-12 /home/singsys/Desktop/flutterLearning/TicketBookingApp/build/fluttertoast/intermediates/packaged_res/debug
+com.example.ticket_booking.app-packaged_res-13 /home/singsys/Desktop/flutterLearning/TicketBookingApp/build/sqflite/intermediates/packaged_res/debug
