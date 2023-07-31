@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../../utils/resources/color.dart';
 import '../../utils/resources/sizes.dart';
-import '../../utils/resources/string.dart';
-
 class CustomTextField extends StatelessWidget {
   final String titleText;
   final String? hintText;
@@ -54,8 +52,7 @@ class CustomTextField extends StatelessWidget {
             titleText,
             style: TextStyle(
                 color: textColor ?? AppColors.darkGreyColor,
-                fontSize: AppSizes.fontSize16,
-                fontFamily: AppStrings.calibri),
+                fontSize: AppSizes.fontSize16,),
           ),
           SizedBox(
             height: Sizes.size5,
@@ -89,7 +86,7 @@ class CustomTextField extends StatelessWidget {
                     overflow: TextOverflow.ellipsis,
                     color: textColor ?? AppColors.lightGrey,
                     fontSize: AppSizes.fontSize15,
-                    fontFamily: AppStrings.calibri),
+                ),
 
               ),
               keyboardType: inputType,

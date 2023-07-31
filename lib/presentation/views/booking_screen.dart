@@ -42,7 +42,6 @@ class _BookingScreenState extends State<BookingScreen> {
                   )),
                   child: Row(
                     children: [
-
                       Expanded(child: Text('Email: ${book[index]?.email}')),
                       const SizedBox(
                         width: 20,
